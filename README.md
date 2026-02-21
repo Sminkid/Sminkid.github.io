@@ -7,6 +7,7 @@ This repository now contains a one-page GitHub Pages ePortfolio.
 - `index.html` — main portfolio page
 - `styles.css` — site styling
 - `assets/Jonathan_Chang_Resume.pdf` — resume linked from the hero section
+- 'https://Sminkid.github.io/ to access' this is where the site is at
 
 ## Run locally
 
