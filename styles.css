@@ -95,10 +95,9 @@ a { color: var(--blue); text-decoration: none; }
   padding: 5rem 0 4rem;
   overflow: hidden;
   background:
-    linear-gradient(rgba(10,14,26,0.7), rgba(10,14,26,0.7)),
+    linear-gradient(rgba(10,14,26,0.3), rgba(10,14,26,0.3)),
     url('/assets/hero-bg.jpg') center/cover no-repeat;
-  /* Optionally add overlays for glow/effects */
-  background-blend-mode: overlay;
+  /* Removed blend mode for better visibility */
 }
 
 .hero-glow {
