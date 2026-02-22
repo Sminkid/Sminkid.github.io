@@ -96,7 +96,7 @@ a { color: var(--blue); text-decoration: none; }
   overflow: hidden;
   background:
     linear-gradient(rgba(10,14,26,0.3), rgba(10,14,26,0.3)),
-    url('/assets/hero-bg.jpg') center/cover no-repeat;
+    url('/assets/hero-tech-bg.jpg') center/cover no-repeat;
   /* Removed blend mode for better visibility */
 }
 
